@@ -4,6 +4,7 @@ Master Of Sanitarium
   - Welcome
   - Ride
   - Kill
+    - The
 - Puppets
   - Em
 - Damage
