@@ -3,5 +3,8 @@ Master Of Sanitarium
 - Battery
   - Welcome
   - Ride
+  - Kill
 - Puppets
+  - Em
 - Damage
+- All
